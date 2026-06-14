@@ -1,0 +1,4 @@
+cluster,total_violations,avg_lat,avg_lon,cities,risk_level
+0,13,12.969903915384615,77.61381996153847,bangalore,Medium Risk
+1,16,28.6238448375,77.258519525,"delhi, noida",High Risk
+2,3,19.120242966666666,72.84188536666666,mumbai,Low Risk

@@ -1,0 +1,301 @@
+name,type,lat,lon,city,nearest_school_distance,nearest_school_name,nearest_temple_distance,nearest_temple_name,nearest_type,illegal,violation_reason,severity
+Unknown,alcohol,13.0272382,77.5390972,bangalore,1490.7,Unknown,1267.74,Unknown,temple,False,Safe,Low
+Unknown,alcohol,13.0273846,77.5388289,bangalore,1457.56,Unknown,1235.25,Unknown,temple,False,Safe,Low
+Unknown,alcohol,13.0274578,77.5386787,bangalore,1439.57,Unknown,1217.74,Unknown,temple,False,Safe,Low
+Scotchyard,alcohol,13.0144757,77.5736759,bangalore,263.74,Nagasena Vidyalaya,266.12,International Buddhist Seminary,school,False,Safe,Low
+Unknown,alcohol,13.0263214,77.5367275,bangalore,1358.76,Unknown,1171.03,Unknown,temple,False,Safe,Low
+Honey Drops,alcohol,12.9138062,77.6099744,bangalore,189.99,"St Josephs Eng Pri Sch, B T M Layout W No 65",423.94,Sri Chamundeshwari Temple,school,False,Safe,Low
+Alcohol Shop,alcohol,12.9684968,77.6063205,bangalore,118.87,Nathaniel School of Music,316.89,Richmond Town Mosque,school,False,Safe,Low
+Soulmate,alcohol,12.9598218,77.7478418,bangalore,306.26,Neev School,98.92,Ashraya Bangalore East,temple,True,Near Temple,Medium
+Madhuloka,alcohol,12.9260094,77.6752616,bangalore,524.83,Bellandur Government School,135.3,Kodandarama Temple,temple,False,Safe,Low
+Madhuloka,alcohol,12.9368587,77.6200385,bangalore,281.21,Babymona EHPS Koramangala,187.69,Chamundeshwari Temple,temple,False,Safe,Low
+Nexus Mall Koramangla,alcohol,12.93419,77.6109248,bangalore,393.49,Francescon S G Palya,196.01,Ayyappa Swami Temple,temple,False,Safe,Low
+Madhuloka,alcohol,12.9170375,77.6289099,bangalore,330.54,Carmel Garden Public School,561.64,Chowdeshwari Temple,school,False,Safe,Low
+Mahalakshmi Liquor Shop,alcohol,13.0039955,77.551299,bangalore,236.14,Sri Vani Girls High School,147.33,Punyadhaama Raghavendra Mutt,temple,False,Safe,Low
+SreeVinayaka Alcohol Shop,alcohol,12.9312664,77.6097492,bangalore,102.97,Francescon S G Palya,146.23,Srirama Temple,school,False,Safe,Low
+Drops,alcohol,12.914296,77.6383076,bangalore,405.88,Unknown,408.77,Buddha Yoga Mandir,school,False,Safe,Low
+Barrels,alcohol,12.9559175,77.7296068,bangalore,850.01,The Dunmore House Preschool,708.01,Unknown,temple,False,Safe,Low
+Madhuloka,alcohol,12.9224463,77.6682635,bangalore,537.65,GHPS Ibaloor,612.09,Good shepherd Assembly Church,school,False,Safe,Low
+Madhiraa,alcohol,12.9452338,77.579897,bangalore,709.28,Sri Sharada Nursery and Public School,109.04,Unknown,temple,False,Safe,Low
+Spirit Junction,alcohol,12.9604728,77.5294531,bangalore,208.15,Global Chess Academy India,290.28,Ganesha temple,school,False,Safe,Low
+Muni Wines,alcohol,12.9602214,77.6017286,bangalore,364.64,BBMP High School,109.33,Unknown,temple,False,Safe,Low
+Liquor Mart,alcohol,12.8896649,77.5817024,bangalore,192.66,Capitol Public School,220.18,Dr. P. Vivekananda layout mini temple,school,False,Safe,Low
+Spiritz Zone,alcohol,12.9784169,77.5531691,bangalore,252.09,St Mira's School,450.13,Temple,school,False,Safe,Low
+Unknown,alcohol,12.9919502,77.5457767,bangalore,207.08,Indian High School,637.15,Ranganatha Swamy Temple,school,False,Safe,Low
+Unknown,alcohol,12.9975064,77.5499528,bangalore,604.15,Indian High School,98.8,Unknown,temple,True,Near Temple,Medium
+Metro Spirit,alcohol,13.0671242,77.5600979,bangalore,818.34,Unknown,113.92,Sri Shanishwara Temple,temple,False,Safe,Low
+Sri Manjunatha Wines,alcohol,13.0590978,77.5592692,bangalore,114.07,Unknown,375.02,Unknown,school,False,Safe,Low
+Adhi Wines,alcohol,12.8978678,77.6205859,bangalore,73.67,Silicon City HPS Bommana Halli,64.84,Muneeshwara Swamy Temple,temple,True,Near Both,Medium
+Srinivasa Wines,alcohol,12.9877574,77.5378544,bangalore,257.77,Traffic Police Station Kamakshipalya,256.31,Muneshwara Temple,temple,False,Safe,Low
+Lakshmi Scotch Yard,alcohol,12.887085,77.5819484,bangalore,149.07,Capitol Public School,336.62,Shri Varadanjaneya Swamy Temple,school,False,Safe,Low
+Spritz & More,alcohol,12.8979332,77.5859652,bangalore,227.84,Tiny Angels English Primary School,596.22,Ganesha Temple,school,False,Safe,Low
+Harish Wines - MRP Outlet,alcohol,12.9656224,77.5954265,bangalore,371.09,St. Joseph's Indian Composite PU College,115.59,Sri Rama Mandira,temple,False,Safe,Low
+Dennys Bar,alcohol,12.9166467,77.5971555,bangalore,168.76,Sahakari Vidyakendra AHPS Jayanagar,116.83,Ganesha Temple,temple,False,Safe,Low
+Mohan Wines,alcohol,12.8944069,77.5815499,bangalore,351.95,GMPS Puttenhalli,447.53,Dr. P. Vivekananda layout mini temple,school,False,Safe,Low
+Harris Wines,alcohol,12.9822237,77.6389424,bangalore,290.12,Info Era - Software training institute,67.82,The Church of Jesus Christ of Latter-day Saints,temple,True,Near Temple,Medium
+Radha Wines,alcohol,12.983827,77.6408412,bangalore,559.83,Info Era - Software training institute,84.78,Unknown,temple,True,Near Temple,Medium
+Radha Wines,alcohol,12.9793264,77.6410206,bangalore,214.89,Holy Shepherd English High School,206.79,Shri Venkateshwara Temple,temple,False,Safe,Low
+Madira Spirits,alcohol,13.0608187,77.5873,bangalore,343.12,Nathaniel School of Music,711.6,Unknown,school,False,Safe,Low
+Black & White,alcohol,13.0931574,77.5824215,bangalore,666.91,Poorna Prajna Education Center,282.88,Unknown,temple,False,Safe,Low
+Maha Wines,alcohol,12.9744678,77.6395706,bangalore,232.73,DQ Labs,59.58,Temple,temple,True,Near Temple,Medium
+Kaveri's Honey Pot,alcohol,12.9050379,77.6436802,bangalore,248.31,GHPS Yellukunte,333.1,Shiva Temple,school,False,Safe,Low
+Honey Dews Spirits,alcohol,12.967861,77.653984,bangalore,335.85,Sri Ravishankar Vidya Mandir,456.04,Ganesha Temple,school,False,Safe,Low
+Swagath Bar,alcohol,12.9648064,77.6572365,bangalore,820.5,Sri Ravishankar Vidya Mandir,332.2,Church of Christ,temple,False,Safe,Low
+Sam's Wine Centre,alcohol,12.9709347,77.6051427,bangalore,217.97,Nathaniel School of Music,574.48,Richmond Town Mosque,school,False,Safe,Low
+Blue Bird Wine Centre,alcohol,12.9713557,77.6063804,bangalore,202.72,Nathaniel School of Music,625.38,Shri Maha Muneeshwara Temple,school,False,Safe,Low
+Contessa Wines,alcohol,12.9972226,77.5818843,bangalore,755.22,Gandhi Nagar High School,117.73,Unknown,temple,False,Safe,Low
+All About Liquor,alcohol,13.0416427,77.5950772,bangalore,997.5,Sukrupa School,484.35,Unknown,temple,False,Safe,Low
+Ashwini Bar & Restaurant,alcohol,12.9196251,77.6214314,bangalore,220.4,Kaveri Convent HPS Madivala,366.96,Anjaneya Temple,school,False,Safe,Low
+Unknown,alcohol,12.9758182,77.575029,bangalore,1344.48,Godwin English School,85.55,Sri Annammadevi Mahasamsthana,temple,True,Near Temple,Medium
+G. D. Bar & Restaurant,alcohol,12.9770717,77.5747115,bangalore,1304.18,Bharat Seva Dal,98.45,Sri Annammadevi Mahasamsthana,temple,True,Near Temple,Medium
+The Liquor Library,alcohol,12.9705626,77.7125878,bangalore,531.29,Meraki School Of Art,485.44,Unknown,temple,False,Safe,Low
+Karnataka Liquor Mart,alcohol,13.0666502,77.5960248,bangalore,803.64,Nathaniel School of Music,689.8,Unknown,temple,False,Safe,Low
+Liqor Shop,alcohol,12.9732261,77.5990593,bangalore,631.76,Sacred Hearts Girls School,410.54,Ganapathi & Gayatri Temple,temple,False,Safe,Low
+Unknown,alcohol,12.9974452,77.5494057,bangalore,557.19,Indian High School,39.6,Unknown,temple,True,Near Temple,High
+NS Liquor store,alcohol,12.8763799,77.6396056,bangalore,117.94,"Priyadarshini School, Begur",722.74,Vinayaka Temple,school,False,Safe,Low
+Tonique,alcohol,12.9763058,77.5991645,bangalore,891.93,Sacred Hearts Girls School,542.04,Ganapathi & Gayatri Temple,temple,False,Safe,Low
+Royal Stag,alcohol,12.9876889,77.5496471,bangalore,219.0,Bala Vidya Mandir School,607.96,Ganesha Temple,school,False,Safe,Low
+Dewars Wine Stores,alcohol,12.9721525,77.6009498,bangalore,402.61,Sacred Hearts Girls School,627.27,Ganapathi & Gayatri Temple,school,False,Safe,Low
+Rose garden,alcohol,12.9994495,77.6247073,bangalore,796.81,St Aloysius Pre Unniversity College,315.34,Sri Varasiddhi Vinayaka Temple,temple,False,Safe,Low
+Top Shelf,alcohol,12.96801,77.7499807,bangalore,440.64,Chrysalis Kids,137.37,Jamma Masjid,temple,False,Safe,Low
+Raasa Spirits1,alcohol,13.0489854,77.6035078,bangalore,41.21,Drishti School of Photography,367.48,Sri Kalyana Lakshmi Venkateshwara Temple,school,True,Near School,High
+Liquor Mart,alcohol,12.9433532,77.6215421,bangalore,205.5,Eye Level Learning Center,186.3,Sai Sparshan,temple,False,Safe,Low
+Manjunatha Liquor,alcohol,12.9512117,77.6224293,bangalore,231.87,Sathya Bama Gopal Eng HS,387.33,Unknown,school,False,Safe,Low
+M.R.P Liquor Shop,alcohol,12.9511568,77.622471,bangalore,224.74,Sathya Bama Gopal Eng HS,391.52,Unknown,school,False,Safe,Low
+Bhumi Spirit,alcohol,12.9388064,77.6260422,bangalore,457.05,"Chinmaya Vidyalaya, Koramangala",106.01,Ganesh Temple,temple,False,Safe,Low
+Chord Road Wines and Spirits,alcohol,13.0028629,77.5502707,bangalore,218.09,Kumon Education Center,239.52,Ganesha Temple,school,False,Safe,Low
+Baggana UB Spirits,alcohol,12.9133475,77.6325187,bangalore,441.76,Carmel Garden Public School,434.88,Chowdeshwari Temple,temple,False,Safe,Low
+The Liqor Baron,alcohol,12.9064752,77.5903211,bangalore,342.03,Vasavi Education Trust School,744.86,Unknown,school,False,Safe,Low
+Sling Spirits,alcohol,12.906521,77.592566,bangalore,185.91,Vasavi Education Trust School,652.07,Unknown,school,False,Safe,Low
+Tonique,alcohol,12.9343273,77.6127983,bangalore,442.72,Holy Saint Eng Sch Koramangala,253.4,Sai Baba Temple,temple,False,Safe,Low
+Black & White,alcohol,12.9547702,77.5915257,bangalore,504.55,Cambridge School,168.3,Maari Amma Temple,temple,False,Safe,Low
+Jai Maruthi Spirits,alcohol,12.9154329,77.6491713,bangalore,198.94,"Mount Carmel EHPS HSR Layout, BBMP Agara",279.16,Sri Varasiddhi Vinayaka Temple,school,False,Safe,Low
+Sri Vinutha Bar & Restaurant,alcohol,12.882298,77.5659479,bangalore,486.31,Srinidhi Public School,1105.85,Temple,school,False,Safe,Low
+Unknown,alcohol,12.9478186,77.593784,bangalore,17.66,Driving school for all types of cars,135.27,Raghavendra Swamy Temple,school,True,Near School,High
+Red Rock Wines & Spirits,alcohol,12.9458387,77.5960658,bangalore,202.54,Govt. Urdu English Medium High School,55.85,C. S. I. T. A. Shanti Church,temple,True,Near Temple,Medium
+The Wine Supply Depot,alcohol,12.9742837,77.6016178,bangalore,573.7,Sacred Hearts Girls School,697.38,Ganapathi & Gayatri Temple,school,False,Safe,Low
+Cheers,alcohol,12.9149811,77.6102483,bangalore,181.92,"St Josephs Eng Pri Sch, B T M Layout W No 65",542.36,Kerala Mosque,school,False,Safe,Low
+Balaji Wines,alcohol,13.0344713,77.5572896,bangalore,745.55,L.C.R. English School,239.15,Unknown,temple,False,Safe,Low
+Century Wines & Spirits,alcohol,12.9200586,77.649421,bangalore,265.67,"Brilliant HPS HSR Layout, BBMP Agara",25.95,Shri Shakti Mariyamma Devi Temple,temple,True,Near Temple,High
+Unknown,alcohol,12.9074435,77.5640097,bangalore,509.16,Samskruthi Public School,167.53,Shri Vasavi Kaniyaka Parameshwari Temple,temple,False,Safe,Low
+Lalitha Wines,alcohol,12.9998135,77.6158643,bangalore,144.56,Bethesda Academy,236.96,Unknown,school,False,Safe,Low
+Liqour Library,alcohol,12.9769384,77.7250069,bangalore,135.72,Jetking Computer Hardware and Networking,981.34,Sriddhi Vinaya Temple,school,False,Safe,Low
+Sam's Wines & Spirits,alcohol,12.9907873,77.61323,bangalore,186.12,St. Joseph's Convent Girls High School,465.2,Masjid-ur-Rahmah,school,False,Safe,Low
+MRP Wines,alcohol,13.0082672,77.5690972,bangalore,443.43,Sri Vidya Mandir,280.7,Sri Ayyappa,temple,False,Safe,Low
+Lakshmi Wines,alcohol,13.0598851,77.5931516,bangalore,113.25,Green Country Public School,528.55,Unknown,school,False,Safe,Low
+Pooja Bar,alcohol,12.9973524,77.5807376,bangalore,724.91,Gandhi Nagar High School,184.12,Unknown,temple,False,Safe,Low
+Bottle Store,alcohol,12.9321791,77.6321694,bangalore,558.76,GLPS Sheenivagilu,630.0,Kormangala Methodist Church,school,False,Safe,Low
+Maruthi Spirit Zone,alcohol,12.923402,77.6148551,bangalore,133.75,RS Madivala School,106.49,Om Sakthi Adiparashakthi Temple,temple,False,Safe,Low
+The Liquor Store,alcohol,13.0413968,77.6223288,bangalore,259.89,SJM Public School,794.83,Unknown,school,False,Safe,Low
+Madhuloka,alcohol,13.0019355,77.553083,bangalore,273.17,Sri Vani Education Society,140.68,Ganesha Temple,temple,False,Safe,Low
+Bottle Shop,alcohol,12.9567985,77.7415409,bangalore,925.33,Neev School,854.6,Ashraya Bangalore East,temple,False,Safe,Low
+Liquor Boutique,alcohol,12.9949243,77.6977168,bangalore,2021.95,ITI Central School,166.77,Unknown,temple,False,Safe,Low
+Victoria Spirits,alcohol,12.9656146,77.7486723,bangalore,195.83,Chrysalis Kids,263.02,Sri Devi Karumariamman Temple,school,False,Safe,Low
+Sling,alcohol,12.9572927,77.7451871,bangalore,646.7,Neev School,483.83,Ashraya Bangalore East,temple,False,Safe,Low
+100 Pipers,alcohol,12.9104021,77.5915317,bangalore,263.14,Community Learning Center,319.6,Unknown,school,False,Safe,Low
+Castle Rock,alcohol,12.9612967,77.6372407,bangalore,124.6,"Little Angels HS, Dommalur",251.11,Amma Bagavan Manava Seva Samiti,school,False,Safe,Low
+Tonique,alcohol,13.0576685,77.6482466,bangalore,975.61,Don Bosco High School,111.12,Kothanur CSI Church,temple,False,Safe,Low
+Unknown,alcohol,13.0954873,77.5614837,bangalore,2181.58,Poorna Prajna Education Center,397.73,ECI St. Peter's Church,temple,False,Safe,Low
+P.S Liquor Mart,alcohol,12.9947672,77.6851568,bangalore,1262.21,Mother Montessori House of Children Pre-school,202.1,Devi Temple,temple,False,Safe,Low
+Talk - The Authentic Local Kitchen,alcohol,12.9617976,77.7163957,bangalore,329.82,Tom & Jerry Creche,405.6,Shri Ishtasiddi Subramanya Swamy Temple,school,False,Safe,Low
+Thilak Wines,alcohol,13.0249922,77.5876786,bangalore,697.8,UAS School,453.38,Shrine of St. Jude Thaddeaus,temple,False,Safe,Low
+Wood Pecker,alcohol,12.995154,77.6665495,bangalore,330.59,Kannada Government School,321.34,Unknown,temple,False,Safe,Low
+Pragathi Spirits @ MRP,alcohol,12.9918859,77.6839317,bangalore,921.65,Mother Montessori House of Children Pre-school,382.56,Unknown,temple,False,Safe,Low
+Mayuri Wines,alcohol,12.9388234,77.6964281,bangalore,979.38,Government Higher Primary School,335.84,Temple,temple,False,Safe,Low
+Unknown,alcohol,30.7400389,76.7976083,chandigarh,1499.91,Unknown,335.91,Hindu Temple,temple,False,Safe,Low
+Unknown,alcohol,30.733256,76.7783556,chandigarh,804.94,Unknown,898.43,Jai Shiv Triveni Temple,school,False,Safe,Low
+Kler Wines,alcohol,30.6940122,76.7710887,chandigarh,2026.27,Kendriya Vidyalya,1075.06,Bangle Waali Masjid,temple,False,Safe,Low
+Empires Store,alcohol,30.7405797,76.78013,chandigarh,190.66,Unknown,973.94,Sanatan Dharm Mandir,school,False,Safe,Low
+Wine Shop,alcohol,30.7425483,76.7874093,chandigarh,606.53,Unknown,735.61,Hindu Temple,school,False,Safe,Low
+The Liquor Estate,alcohol,30.7072657,76.8362403,chandigarh,5104.84,Ankur School,1716.07,Unknown,temple,False,Safe,Low
+The Liquor Hub,alcohol,30.7089373,76.7739202,chandigarh,427.85,Kendriya Vidyalya,591.7,Sri Jagannath Mandir,school,False,Safe,Low
+English Wine and Beer,alcohol,28.4981833,77.0898086,delhi,1696.0,American Montessori,661.71,Shri Shiv Shakthi Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.5099125,77.1684166,delhi,244.67,Heritage International School,405.76,Navgrah temple,school,False,Safe,Low
+Unknown,alcohol,28.417158,77.050592,delhi,1042.56,Kamla International,985.91,Fresco Temple,temple,False,Safe,Low
+Unknown,alcohol,28.5666188,77.2466509,delhi,215.48,Hemani Public School,157.33,Mata Ka Mandir,temple,False,Safe,Low
+Liquor Shop,alcohol,28.6269191,77.2426367,delhi,1357.2,Government Sarvoday Bal Vidyalaya,949.24,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.5954266,77.3622529,delhi,1472.0,KV ground,988.58,Hindu shiv temple,temple,False,Safe,Low
+Unknown,alcohol,28.567471,77.3349614,delhi,2799.45,KV ground,214.71,Christ Church Noida,temple,False,Safe,Low
+Unknown,alcohol,28.42568,77.0999606,delhi,625.02,Unknown,152.01,Sanatan Dharm Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.5586626,77.1640959,delhi,1381.98,Kendriya Vidyalaya,163.75,Gurudwara Sahib,temple,False,Safe,Low
+Wine Shop,alcohol,28.5365283,77.2124237,delhi,110.0,Unknown,132.04,Shri Sankatmochan Hanuman Mandir,school,False,Safe,Low
+Beer& Wine Shop,alcohol,28.6309471,77.2213164,delhi,906.85,Government Sarvoday Bal Vidyalaya,218.52,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.4661086,77.0645897,delhi,1469.24,Unknown,1174.04,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.5228386,77.2152937,delhi,754.94,Darul Qur'an Madrasa Abdurrahman Tahfizul Qur'an,157.27,Shri Sanatan Dharm Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.5401044,77.2342222,delhi,809.94,The Pinnacle School,431.67,Sanatan Dharam Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.5401112,77.234181,delhi,806.41,The Pinnacle School,435.61,Sanatan Dharam Mandir,temple,False,Safe,Low
+The Liquor Store,alcohol,28.5301564,77.2194297,delhi,164.34,s6 BHIM Singh ni was,52.46,Prachin Shiv Shakti Durga Mandir,temple,True,Near Temple,Medium
+Unknown,alcohol,28.4192826,77.0455961,delhi,1326.47,"Delhi Public School, Primary Section",780.49,Unknown,temple,False,Safe,Low
+Ma 3 3,alcohol,28.645342,77.2112304,delhi,1569.2,M B Boys School,417.7,Firoz Shah's Mosque,temple,False,Safe,Low
+Wine & Beer Shop,alcohol,28.6981024,77.115816,delhi,701.51,St. Prayag school,722.71,Gurudwara,school,False,Safe,Low
+Govt. Wine & Beer Shop,alcohol,28.5404291,77.2345523,delhi,812.08,The Pinnacle School,397.74,Sanatan Dharam Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.5251357,77.1560612,delhi,528.17,Bhatnagar International School,165.23,Unknown,temple,False,Safe,Low
+Government Wine & Beer Shop,alcohol,28.5438377,77.2082617,delhi,920.16,Unknown,332.65,Dargah,temple,False,Safe,Low
+Government Wine & Beer Shop,alcohol,28.7349852,77.1195497,delhi,438.1,Kids Temple Public School,497.5,Sant Nirankari Satsang Bhawan,school,False,Safe,Low
+Liquor Shop,alcohol,28.5700199,77.2262234,delhi,518.15,Pratibha Vidyalaya,454.15,Assemblies Of God Church,temple,False,Safe,Low
+Wine and Beer Shop,alcohol,28.6293046,77.2775553,delhi,351.99,Adarsh Bal Vidyalaya,191.49,Shri Shiv Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.5173067,77.2208366,delhi,467.65,Kendriya Vidyalaya,592.01,Unknown,school,False,Safe,Low
+Wine and Beer,alcohol,28.5188219,77.2066838,delhi,319.58,Little Ones Public School,424.08,Unknown,school,False,Safe,Low
+Happy,alcohol,28.6411257,77.2125615,delhi,1378.34,M B Boys School,91.17,Unknown,temple,True,Near Temple,Medium
+Unknown,alcohol,28.4772619,77.0694023,delhi,1424.93,American Montessori,620.9,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.6418903,77.2242686,delhi,1183.58,Government Sarvoday Bal Vidyalaya,492.8,Mughal era mosque,temple,False,Safe,Low
+Unknown,alcohol,28.4220829,77.3257704,delhi,1459.08,Modern Delhi International School,932.22,Hari Mandir,temple,False,Safe,Low
+Wine + Beer Shop,alcohol,28.6457131,77.2107427,delhi,1568.24,M B Boys School,456.16,Firoz Shah's Mosque,temple,False,Safe,Low
+Unknown,alcohol,28.440572,77.0814928,delhi,687.57,"Government Model Senior Secondary School, Wazirabad",1650.48,Hanuman Mandir,school,False,Safe,Low
+Government Wine and Beer Shop,alcohol,28.6861176,77.2919969,delhi,452.98,KENDRIYA VIDYALAYA SHAHDARA,81.67,Panchal Shiv Hanuman Mandir,temple,True,Near Temple,Medium
+Wine and Beer Store,alcohol,28.6750858,77.2883489,delhi,627.18,Unknown,711.31,Unknown,school,False,Safe,Low
+Unknown,alcohol,28.5327259,77.1529611,delhi,305.84,Aadyant,337.23,Gurdwara Sri Guru Singh Sabha,school,False,Safe,Low
+Unknown,alcohol,28.5404112,77.2335775,delhi,740.18,The Pinnacle School,492.97,Sanatan Dharam Mandir,temple,False,Safe,Low
+Wine and Beer Shop,alcohol,28.5336349,77.2692828,delhi,1181.17,Madarasa Millat-ul-Islam,415.25,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.5498305,77.2510429,delhi,605.07,Jaganath intl mngt school,567.82,Prachin Bhairav Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.6011318,77.226349,delhi,790.92,Unknown,65.17,Unknown,temple,True,Near Temple,Medium
+Unknown,alcohol,28.6809143,77.1764423,delhi,1826.13,Kendriya Vidhyalya,299.15,Bunkur Temple,temple,False,Safe,Low
+Government Wine and Beer Shop,alcohol,28.6781559,77.3087402,delhi,72.32,East Delhi M.C Primary School,516.98,Lakshmi Narayan Mandir,school,True,Near School,Medium
+Government Wine and Beer shop,alcohol,28.6123842,76.9918741,delhi,420.33,Government Boys and Girls Senior Secondary School,163.41,Hanuman Mandir,temple,False,Safe,Low
+Government Wine and Beer Shop,alcohol,28.5591709,77.1965519,delhi,414.06,दिल्ली नगर निगम आदर्श प्राथमिक सह शिक्षा विद्यालय,268.6,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.4877465,77.0933995,delhi,1250.47,American Montessori,599.55,Shri Shiv Shakthi Mandir,temple,False,Safe,Low
+G-Town Wines,alcohol,28.4798362,77.0919596,delhi,760.81,Government Primary School,230.59,Hanuman Mandir,temple,False,Safe,Low
+Scotachtap Liquor Store,alcohol,28.4295297,77.088965,delhi,993.48,"Government Boys Model Sanskriti Primary School, Wazirabad",870.15,Unknown,temple,False,Safe,Low
+Discovery Liqour Warehouse,alcohol,28.4422474,77.1014293,delhi,1477.96,Pathways,1732.75,Hanuman Mandir,school,False,Safe,Low
+English Wine and Beer Shop,alcohol,28.4297578,77.0747566,delhi,727.87,"Government Model Senior Secondary School, Wazirabad",1516.31,Unknown,school,False,Safe,Low
+G Town Wines,alcohol,28.4436074,77.1017316,delhi,1615.06,Pathways,1646.49,Hanuman Mandir,school,False,Safe,Low
+Daily Dose,alcohol,28.4707682,77.0944617,delhi,523.39,Royal Convent School,705.27,Unknown,school,False,Safe,Low
+Unknown,alcohol,28.5799817,77.2413962,delhi,352.8,Unknown,357.76,Unknown,school,False,Safe,Low
+Wine and beer store (liquor too),alcohol,28.6386099,77.2101114,delhi,1039.96,M B Boys School,107.54,Sri Ramakrishna Temple,temple,False,Safe,Low
+Liquor Vend,alcohol,28.6293809,77.2775062,delhi,344.47,Adarsh Bal Vidyalaya,185.43,Shri Shiv Mandir,temple,False,Safe,Low
+English Wine and Beer Shop,alcohol,28.4336452,77.0708771,delhi,784.17,Government Model Sanskriti Primary School,2080.39,Unknown,school,False,Safe,Low
+Jura,alcohol,28.40096,77.0444453,delhi,2512.48,Kamla International,555.49,Sri Radhe Krishna Temple,temple,False,Safe,Low
+Discovery Liquor Warehouse,alcohol,28.4467316,77.0791041,delhi,811.1,Stones2milestones,1269.16,Hanuman Mandir,school,False,Safe,Low
+Lakeforest Wine,alcohol,28.4568622,77.0975332,delhi,1905.17,Stones2milestones,870.29,Hanuman Mandir,temple,False,Safe,Low
+Liquor Fort,alcohol,28.4613643,77.0841068,delhi,524.95,Unknown,771.39,Unknown,school,False,Safe,Low
+Discovery Liqour and Wines,alcohol,28.4569523,77.0976372,delhi,1916.89,Stones2milestones,883.66,Hanuman Mandir,temple,False,Safe,Low
+Liquor Point,alcohol,28.4484544,77.072603,delhi,746.05,St. Angels (Jr),1741.86,Hanuman Mandir,school,False,Safe,Low
+Liqour Fort,alcohol,28.4438854,77.0579206,delhi,785.4,St. Angels (Jr),1471.72,GURUDWARA JHARSA,school,False,Safe,Low
+Liqourland,alcohol,28.4339705,77.0600786,delhi,887.69,"Delhi Public School, Primary Section",1688.08,GURUDWARA JHARSA,school,False,Safe,Low
+Discovery Liquour Warehouse,alcohol,28.4320255,77.1045149,delhi,307.68,Pathways,858.25,Sanatan Dharm Mandir,school,False,Safe,Low
+English Wine and Beer Shop,alcohol,28.4241101,77.0680888,delhi,433.31,Government Model Sanskriti Primary School,1170.34,Fresco Temple,school,False,Safe,Low
+Government liquor shop,alcohol,28.5427448,77.2528122,delhi,587.29,Jaganath intl mngt school,480.17,Raghupati Temple,temple,False,Safe,Low
+Lakeforest Wines,alcohol,28.467761,77.0874871,delhi,591.93,Royal Convent School,382.7,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.4235753,77.0907339,delhi,1548.29,Unknown,381.63,Unknown,temple,False,Safe,Low
+Govt. Wine & Beer shop,alcohol,28.6342332,77.2834021,delhi,376.11,Bal Bhavan Public School,271.53,Neminath Jain Mandir,temple,False,Safe,Low
+Liquor Point,alcohol,28.4306211,77.0778519,delhi,478.73,"Government Model Senior Secondary School, Wazirabad",1349.95,Unknown,school,False,Safe,Low
+G Town Wines,alcohol,28.4231411,77.0537682,delhi,721.22,"Delhi Public School, Primary Section",1043.06,Fresco Temple,school,False,Safe,Low
+Unknown,alcohol,28.4326057,77.0514744,delhi,356.7,"Delhi Public School, Primary Section",1042.61,GURUDWARA JHARSA,school,False,Safe,Low
+Discovery,alcohol,28.4277457,77.0323665,delhi,1273.97,Kendriya Vidyalaya No.2 Sohna Road,875.11,Unknown,temple,False,Safe,Low
+G Town Wines,alcohol,28.4411967,77.0016421,delhi,2703.03,Kendriya Vidyalaya No.2 Sohna Road,2657.9,Rajiv Chowk Mosque,temple,False,Safe,Low
+Unknown,alcohol,28.4262977,77.0240495,delhi,1482.46,Kendriya Vidyalaya No.2 Sohna Road,1466.34,Unknown,temple,False,Safe,Low
+Government Wine Shop,alcohol,28.6335601,77.2816529,delhi,271.09,Bal Bhavan Public School,335.13,Neminath Jain Mandir,school,False,Safe,Low
+Discovery,alcohol,28.4497224,77.0907682,delhi,1306.35,Stones2milestones,460.91,Hanuman Mandir,temple,False,Safe,Low
+wine Shop,alcohol,28.5885488,77.1690232,delhi,794.4,NDMC,353.94,Gurudwara Moti Bagh Sahib,temple,False,Safe,Low
+Discovery,alcohol,28.4213913,77.1056176,delhi,504.43,Unknown,578.98,Sanatan Dharm Mandir,school,False,Safe,Low
+SK Wines,alcohol,28.4147687,77.0831518,delhi,2176.55,Government Model Sanskriti Primary School,887.15,Unknown,temple,False,Safe,Low
+Discovery Liquor Warehouse,alcohol,28.4012723,77.0100537,delhi,4577.12,Kendriya Vidyalaya No.2 Sohna Road,2126.92,Tulip Mandir,temple,False,Safe,Low
+Discovery Liquor Warehouse,alcohol,28.4003869,77.0070337,delhi,4793.05,Kendriya Vidyalaya No.2 Sohna Road,2375.08,Tulip Mandir,temple,False,Safe,Low
+Lakeforest Wines,alcohol,28.4775053,77.0721634,delhi,1192.95,Government Primary School,892.08,Unknown,temple,False,Safe,Low
+Lakeforest Wines,alcohol,28.4971282,77.0811552,delhi,1342.76,American Montessori,1276.2,Shri Shiv Shakthi Mandir,temple,False,Safe,Low
+Kalra's Wine & Beer Shop,alcohol,28.6370938,77.2857704,delhi,617.6,Bal Bhavan Public School,573.65,Neminath Jain Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.4225824,77.1448547,delhi,208.07,GOVERNMENT SCHOOL,365.41,SHIV MANDIR BALIYAWAS,school,False,Safe,Low
+Wine & Beer Shop,alcohol,28.6985607,77.20442,delhi,708.5,Experimental Basic School,887.85,Shri Ram Mandir,school,False,Safe,Low
+Government Wine & Beer Shop,alcohol,28.6982076,77.2055105,delhi,605.01,Experimental Basic School,819.03,Shri Ram Mandir,school,False,Safe,Low
+Vintage,alcohol,28.4048847,77.0534967,delhi,1650.16,Kamla International,1237.2,Sri Radhe Krishna Temple,temple,False,Safe,Low
+Government Wine & Beer Shop,alcohol,28.5909224,77.0431377,delhi,386.26,Adarsh World School,456.59,Unknown,school,False,Safe,Low
+Government Wine And Beer Shop,alcohol,28.6335356,77.2065442,delhi,633.43,M B Boys School,55.15,Shri Hanuman Mandir,temple,True,Near Temple,Medium
+Liquor Vend,alcohol,28.619491,77.2858801,delhi,638.2,Unknown,28.59,Unknown,temple,True,Near Temple,High
+Liqour Mart,alcohol,28.6311219,77.221319,delhi,902.62,Government Sarvoday Bal Vidyalaya,232.96,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.6307586,77.2206195,delhi,977.8,Government Sarvoday Bal Vidyalaya,159.58,Unknown,temple,False,Safe,Low
+Cheers Avenue,alcohol,28.5711509,77.3246976,delhi,3114.12,KV ground,936.02,Sanatan Dharm Mandir (Sector 19 C Block),temple,False,Safe,Low
+Whisky Shop,alcohol,28.5712837,77.3243261,delhi,3131.97,KV ground,934.62,Sanatan Dharm Mandir (Sector 19 C Block),temple,False,Safe,Low
+Good Spirits (Wine & Beer Shop),alcohol,28.619713,77.3009684,delhi,188.49,Bal Bhavan Public School,158.72,Neelam Mata Mandir,temple,False,Safe,Low
+GTown Wines,alcohol,28.8831398,77.1185984,delhi,5597.15,"Sarvodaya Bal Vidyalaya, Tikri Khurd",5161.95,Satanam Dharam Mandir,temple,False,Safe,Low
+GTown Wines,alcohol,28.8619256,77.1246031,delhi,3178.25,"Sarvodaya Bal Vidyalaya, Tikri Khurd",3911.38,Satanam Dharam Mandir,school,False,Safe,Low
+GTown,alcohol,28.8597316,77.1246816,delhi,2935.08,"Sarvodaya Bal Vidyalaya, Tikri Khurd",3800.0,Satanam Dharam Mandir,school,False,Safe,Low
+Wine & Beer Shop,alcohol,28.7137084,77.1724464,delhi,820.03,Unknown,136.28,Mosque,temple,False,Safe,Low
+Wine & Beer Shop,alcohol,28.7252922,77.1626981,delhi,549.54,Saint Model Public School,159.88,Unknown,temple,False,Safe,Low
+Government Wine and Beer Shop,alcohol,28.5927608,77.0462149,delhi,314.66,Adarsh World School,103.72,Unknown,temple,False,Safe,Low
+Discovery Liquor Warehouse,alcohol,28.4617675,77.0951486,delhi,1335.91,Royal Convent School,619.86,Unknown,temple,False,Safe,Low
+Lakeforest Wines,alcohol,28.4667062,77.0939618,delhi,795.52,Royal Convent School,369.32,Unknown,temple,False,Safe,Low
+Beer and Wine,alcohol,28.6010447,77.3166546,delhi,65.58,Mamta Public School,183.39,Unknown,school,True,Near School,Medium
+The Liquor Fort,alcohol,28.4174503,77.1000609,delhi,1121.18,Unknown,833.08,Sanatan Dharm Mandir,temple,False,Safe,Low
+Government Wine & Beer Shop,alcohol,28.632603,77.2171778,delhi,1289.57,Government Sarvoday Bal Vidyalaya,153.39,Dargah Shah Abdul Salam Faridi (RA),temple,False,Safe,Low
+Wine And Beer Shop,alcohol,28.7385277,77.1538685,delhi,731.07,Unknown,728.66,Unknown,temple,False,Safe,Low
+Wine & Beer Shop,alcohol,28.7287553,77.0855914,delhi,2497.92,Mount abu junior branch school,1186.18,Shri Balaji Satsang Bhawan,temple,False,Safe,Low
+HR10 Wine Shop,alcohol,28.899889,77.1124207,delhi,7539.61,"Sarvodaya Bal Vidyalaya, Tikri Khurd",6581.82,Satanam Dharam Mandir,temple,False,Safe,Low
+Seasons's Wines,alcohol,19.1386267,72.8158504,mumbai,273.51,Orchids International School,520.75,Unknown,school,False,Safe,Low
+Ricky Wines,alcohol,19.2120029,72.8735054,mumbai,1184.96,bmc ground,744.76,babri masjid,temple,False,Safe,Low
+Vikas Wines,alcohol,19.1251922,72.8223929,mumbai,295.0,Unknown,52.27,Masjid Talimul Quran,temple,True,Near Temple,Medium
+Fition Wines,alcohol,19.1173314,72.8294583,mumbai,816.13,Cosmopolitan Education Society,595.07,Unknown,temple,False,Safe,Low
+Jude's Wines,alcohol,19.0624731,72.8296623,mumbai,120.15,Safari Kid,178.26,Durga Mata Temple,school,False,Safe,Low
+Unknown,alcohol,19.1386689,72.8290613,mumbai,1017.22,Kishore Namit Kapoor Acting Institute,642.03,Amba Mata Temple,temple,False,Safe,Low
+Alcohol Shop,alcohol,19.1715047,72.8697795,mumbai,310.16,Ryan International School (ICSE),1202.15,Om Pimpleshwar Mahadev Mandir,school,False,Safe,Low
+Parry Wines II,alcohol,19.0500521,72.8264171,mumbai,551.08,Apostolic Carmel Convent (Girl's School),220.99,Mount Carmels Church,temple,False,Safe,Low
+Princess Wines,alcohol,19.1302632,72.8182525,mumbai,462.4,Holy Cross Convent,147.1,Shiv Mandir,temple,False,Safe,Low
+sunny wines,alcohol,19.0603581,72.8429199,mumbai,1067.19,Duruelo Convent High School,187.82,Ganpati Mandir(Bal Mitra Mandal),temple,False,Safe,Low
+Unknown,alcohol,19.2436717,72.851635,mumbai,589.47,Rustomjee Cambridge International school,441.18,Ayappa Mandir,temple,False,Safe,Low
+Unknown,alcohol,19.1265788,72.8208292,mumbai,351.14,Unknown,117.14,Unknown,temple,False,Safe,Low
+The Vineyard,alcohol,19.061795,72.8357069,mumbai,325.75,Duruelo Convent High School,370.07,Unknown,school,False,Safe,Low
+Unknown,alcohol,19.0303688,72.8468491,mumbai,621.02,"MCGM, L K Waghji, Mumbai Public School",454.61,Ephphatha Church (Ephphatha Ministries International),temple,False,Safe,Low
+Juben Wines,alcohol,19.1012765,72.8270289,mumbai,1041.59,Juhu Tara Municipal School,1223.13,Jain Temple,school,False,Safe,Low
+Irish Wines,alcohol,19.1323668,72.8123939,mumbai,197.12,Holy Cross Convent,89.29,Aram Nagar Amba Mata Mandir,temple,True,Near Temple,Medium
+Wine & Wines,alcohol,19.0505285,72.8267929,mumbai,501.43,Apostolic Carmel Convent (Girl's School),163.33,Mount Carmels Church,temple,False,Safe,Low
+Hops Cork,alcohol,19.06513,72.8316358,mumbai,479.0,Safari Kid,459.54,Unknown,temple,False,Safe,Low
+Omkar Wines,alcohol,19.1070547,72.8594489,mumbai,715.76,Unknown,621.02,Unknown,temple,False,Safe,Low
+Make play with Flavours,alcohol,19.0426446,72.8645086,mumbai,1159.79,Little Angels' High School,248.69,Sunni masjid,temple,False,Safe,Low
+Himalayan Wines,alcohol,19.0222086,72.8382809,mumbai,306.34,Pragati School,329.69,Unknown,school,False,Safe,Low
+Pinky Wines,alcohol,19.0581387,72.8231932,mumbai,471.2,Apostolic Carmel Convent (Girl's School),155.36,Unknown,temple,False,Safe,Low
+Kara Wines,alcohol,19.135797,72.8207039,mumbai,471.19,Kishore Namit Kapoor Acting Institute,121.96,Shri Ichhapurti Hanuman Mandir,temple,False,Safe,Low
+Silver,alcohol,19.2180358,72.9708759,mumbai,890.46,Unknown,1206.9,Sai Temple (Vartak Nagar),school,False,Safe,Low
+Unknown,alcohol,19.1031699,72.8908693,mumbai,572.97,THERESA HIGH SCHOOL,70.76,Sai Baba temple,temple,True,Near Temple,Medium
+Circle Wines,alcohol,19.0274818,72.8564225,mumbai,405.04,Shree Amulakh Amichand Bhimji Vividhlakshi Vidyalaya,941.95,Ephphatha Church (Ephphatha Ministries International),school,False,Safe,Low
+Juhu Foreign Liquor Shop,alcohol,19.1078627,72.8263463,mumbai,1777.34,Juhu Tara Municipal School,491.56,Jain Temple,temple,False,Safe,Low
+Big Boy Wines,alcohol,19.0521132,72.8999815,mumbai,491.23,Sevadaan Special School,311.71,Mar Gregorios Orthodox Syrian Church,temple,False,Safe,Low
+Raja Jani Wines,alcohol,19.1080068,72.8589229,mumbai,687.48,Unknown,533.48,Unknown,temple,False,Safe,Low
+Season's Wine Project,alcohol,19.1302317,72.8226488,mumbai,357.68,Unknown,375.29,Unknown,school,False,Safe,Low
+Living Liquidz,alcohol,19.1642263,72.9373869,mumbai,413.94,Unknown,296.28,Unknown,temple,False,Safe,Low
+Unknown,alcohol,19.1457092,72.8232549,mumbai,761.93,Kishore Namit Kapoor Acting Institute,366.69,Lalsahi Dham Mandir,temple,False,Safe,Low
+Unknown,alcohol,19.146611,72.8282598,mumbai,524.06,HVPS College,424.31,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.5666188,77.2466509,noida,215.48,Hemani Public School,157.33,Mata Ka Mandir,temple,False,Safe,Low
+Liquor Shop,alcohol,28.6269191,77.2426367,noida,1357.2,Government Sarvoday Bal Vidyalaya,949.24,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.5954266,77.3622529,noida,1472.0,KV ground,988.58,Hindu shiv temple,temple,False,Safe,Low
+Unknown,alcohol,28.567471,77.3349614,noida,2799.45,KV ground,214.71,Christ Church Noida,temple,False,Safe,Low
+Wine Shop,alcohol,28.5365283,77.2124237,noida,110.0,Unknown,132.04,Shri Sankatmochan Hanuman Mandir,school,False,Safe,Low
+Beer& Wine Shop,alcohol,28.6309471,77.2213164,noida,906.85,Government Sarvoday Bal Vidyalaya,218.52,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.5228386,77.2152937,noida,754.94,Darul Qur'an Madrasa Abdurrahman Tahfizul Qur'an,157.27,Shri Sanatan Dharm Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.5401044,77.2342222,noida,809.94,The Pinnacle School,431.67,Sanatan Dharam Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.5401112,77.234181,noida,806.41,The Pinnacle School,435.61,Sanatan Dharam Mandir,temple,False,Safe,Low
+The Liquor Store,alcohol,28.5301564,77.2194297,noida,164.34,s6 BHIM Singh ni was,52.46,Prachin Shiv Shakti Durga Mandir,temple,True,Near Temple,Medium
+Ma 3 3,alcohol,28.645342,77.2112304,noida,1569.2,M B Boys School,417.7,Firoz Shah's Mosque,temple,False,Safe,Low
+Govt. Wine & Beer Shop,alcohol,28.5404291,77.2345523,noida,812.08,The Pinnacle School,397.74,Sanatan Dharam Mandir,temple,False,Safe,Low
+Government Wine & Beer Shop,alcohol,28.5438377,77.2082617,noida,920.16,Unknown,332.65,Dargah,temple,False,Safe,Low
+Liquor Shop,alcohol,28.5700199,77.2262234,noida,518.15,Pratibha Vidyalaya,454.15,Assemblies Of God Church,temple,False,Safe,Low
+Wine and Beer Shop,alcohol,28.6293046,77.2775553,noida,351.99,Adarsh Bal Vidyalaya,191.49,Shri Shiv Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.5173067,77.2208366,noida,467.65,Kendriya Vidyalaya,592.01,Unknown,school,False,Safe,Low
+Wine and Beer,alcohol,28.5188219,77.2066838,noida,319.58,Little Ones Public School,424.08,Unknown,school,False,Safe,Low
+Happy,alcohol,28.6411257,77.2125615,noida,1378.34,M B Boys School,91.17,Unknown,temple,True,Near Temple,Medium
+Unknown,alcohol,28.6418903,77.2242686,noida,1183.58,Government Sarvoday Bal Vidyalaya,492.8,Mughal era mosque,temple,False,Safe,Low
+Unknown,alcohol,28.4220829,77.3257704,noida,1459.08,Modern Delhi International School,932.22,Hari Mandir,temple,False,Safe,Low
+Wine + Beer Shop,alcohol,28.6457131,77.2107427,noida,1568.24,M B Boys School,456.16,Firoz Shah's Mosque,temple,False,Safe,Low
+Government Wine and Beer Shop,alcohol,28.6861176,77.2919969,noida,452.98,KENDRIYA VIDYALAYA SHAHDARA,81.67,Panchal Shiv Hanuman Mandir,temple,True,Near Temple,Medium
+Wine and Beer Store,alcohol,28.6750858,77.2883489,noida,627.18,Unknown,711.31,Unknown,school,False,Safe,Low
+Unknown,alcohol,28.5404112,77.2335775,noida,740.18,The Pinnacle School,492.97,Sanatan Dharam Mandir,temple,False,Safe,Low
+Wine and Beer Shop,alcohol,28.5336349,77.2692828,noida,1181.17,Madarasa Millat-ul-Islam,415.25,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.5498305,77.2510429,noida,605.07,Jaganath intl mngt school,567.82,Prachin Bhairav Mandir,temple,False,Safe,Low
+Unknown,alcohol,28.6011318,77.226349,noida,790.92,Unknown,65.17,Unknown,temple,True,Near Temple,Medium
+Government Wine and Beer Shop,alcohol,28.6781559,77.3087402,noida,72.32,East Delhi M.C Primary School,516.98,Lakshmi Narayan Mandir,school,True,Near School,Medium
+Unknown,alcohol,28.5799817,77.2413962,noida,352.8,Unknown,357.76,Unknown,school,False,Safe,Low
+Wine and beer store (liquor too),alcohol,28.6386099,77.2101114,noida,1039.96,M B Boys School,107.54,Sri Ramakrishna Temple,temple,False,Safe,Low
+Liquor Vend,alcohol,28.6293809,77.2775062,noida,344.47,Adarsh Bal Vidyalaya,185.43,Shri Shiv Mandir,temple,False,Safe,Low
+Government liquor shop,alcohol,28.5427448,77.2528122,noida,587.29,Jaganath intl mngt school,480.17,Raghupati Temple,temple,False,Safe,Low
+Govt. Wine & Beer shop,alcohol,28.6342332,77.2834021,noida,376.11,Bal Bhavan Public School,271.53,Neminath Jain Mandir,temple,False,Safe,Low
+Government Wine Shop,alcohol,28.6335601,77.2816529,noida,271.09,Bal Bhavan Public School,335.13,Neminath Jain Mandir,school,False,Safe,Low
+Kalra's Wine & Beer Shop,alcohol,28.6370938,77.2857704,noida,617.6,Bal Bhavan Public School,573.65,Neminath Jain Mandir,temple,False,Safe,Low
+Wine & Beer Shop,alcohol,28.6985607,77.20442,noida,708.5,Experimental Basic School,887.85,Shri Ram Mandir,school,False,Safe,Low
+Government Wine & Beer Shop,alcohol,28.6982076,77.2055105,noida,605.01,Experimental Basic School,819.03,Shri Ram Mandir,school,False,Safe,Low
+Government Wine And Beer Shop,alcohol,28.6335356,77.2065442,noida,633.43,M B Boys School,55.15,Shri Hanuman Mandir,temple,True,Near Temple,Medium
+Liquor Vend,alcohol,28.619491,77.2858801,noida,638.2,Unknown,28.59,Unknown,temple,True,Near Temple,High
+Liqour Mart,alcohol,28.6311219,77.221319,noida,902.62,Government Sarvoday Bal Vidyalaya,232.96,Unknown,temple,False,Safe,Low
+Unknown,alcohol,28.6307586,77.2206195,noida,977.8,Government Sarvoday Bal Vidyalaya,159.58,Unknown,temple,False,Safe,Low
+Cheers Avenue,alcohol,28.5711509,77.3246976,noida,3114.12,KV ground,936.02,Sanatan Dharm Mandir (Sector 19 C Block),temple,False,Safe,Low
+Whisky Shop,alcohol,28.5712837,77.3243261,noida,3131.97,KV ground,934.62,Sanatan Dharm Mandir (Sector 19 C Block),temple,False,Safe,Low
+Good Spirits (Wine & Beer Shop),alcohol,28.619713,77.3009684,noida,188.49,Bal Bhavan Public School,158.72,Neelam Mata Mandir,temple,False,Safe,Low
+Beer and Wine,alcohol,28.6010447,77.3166546,noida,65.58,Mamta Public School,183.39,Unknown,school,True,Near School,Medium
+Government Wine & Beer Shop,alcohol,28.632603,77.2171778,noida,1289.57,Government Sarvoday Bal Vidyalaya,153.39,Dargah Shah Abdul Salam Faridi (RA),temple,False,Safe,Low

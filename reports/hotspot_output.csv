@@ -1,0 +1,33 @@
+name,type,lat,lon,city,nearest_school_distance,nearest_school_name,nearest_temple_distance,nearest_temple_name,nearest_type,illegal,violation_reason,severity,cluster,hotspot_type
+Soulmate,alcohol,12.9598218,77.7478418,bangalore,306.26,Neev School,98.92,Ashraya Bangalore East,temple,True,Near Temple,Medium,0,Medium Risk Zone
+Unknown,alcohol,12.9975064,77.5499528,bangalore,604.15,Indian High School,98.8,Unknown,temple,True,Near Temple,Medium,0,Medium Risk Zone
+Adhi Wines,alcohol,12.8978678,77.6205859,bangalore,73.67,Silicon City HPS Bommana Halli,64.84,Muneeshwara Swamy Temple,temple,True,Near Both,Medium,0,Medium Risk Zone
+Harris Wines,alcohol,12.9822237,77.6389424,bangalore,290.12,Info Era - Software training institute,67.82,The Church of Jesus Christ of Latter-day Saints,temple,True,Near Temple,Medium,0,Medium Risk Zone
+Radha Wines,alcohol,12.983827,77.6408412,bangalore,559.83,Info Era - Software training institute,84.78,Unknown,temple,True,Near Temple,Medium,0,Medium Risk Zone
+Maha Wines,alcohol,12.9744678,77.6395706,bangalore,232.73,DQ Labs,59.58,Temple,temple,True,Near Temple,Medium,0,Medium Risk Zone
+Unknown,alcohol,12.9758182,77.575029,bangalore,1344.48,Godwin English School,85.55,Sri Annammadevi Mahasamsthana,temple,True,Near Temple,Medium,0,Medium Risk Zone
+G. D. Bar & Restaurant,alcohol,12.9770717,77.5747115,bangalore,1304.18,Bharat Seva Dal,98.45,Sri Annammadevi Mahasamsthana,temple,True,Near Temple,Medium,0,Medium Risk Zone
+Unknown,alcohol,12.9974452,77.5494057,bangalore,557.19,Indian High School,39.6,Unknown,temple,True,Near Temple,High,0,Medium Risk Zone
+Raasa Spirits1,alcohol,13.0489854,77.6035078,bangalore,41.21,Drishti School of Photography,367.48,Sri Kalyana Lakshmi Venkateshwara Temple,school,True,Near School,High,0,Medium Risk Zone
+Unknown,alcohol,12.9478186,77.593784,bangalore,17.66,Driving school for all types of cars,135.27,Raghavendra Swamy Temple,school,True,Near School,High,0,Medium Risk Zone
+Red Rock Wines & Spirits,alcohol,12.9458387,77.5960658,bangalore,202.54,Govt. Urdu English Medium High School,55.85,C. S. I. T. A. Shanti Church,temple,True,Near Temple,Medium,0,Medium Risk Zone
+Century Wines & Spirits,alcohol,12.9200586,77.649421,bangalore,265.67,"Brilliant HPS HSR Layout, BBMP Agara",25.95,Shri Shakti Mariyamma Devi Temple,temple,True,Near Temple,High,0,Medium Risk Zone
+The Liquor Store,alcohol,28.5301564,77.2194297,delhi,164.34,s6 BHIM Singh ni was,52.46,Prachin Shiv Shakti Durga Mandir,temple,True,Near Temple,Medium,1,High Risk Zone
+Happy,alcohol,28.6411257,77.2125615,delhi,1378.34,M B Boys School,91.17,Unknown,temple,True,Near Temple,Medium,1,High Risk Zone
+Government Wine and Beer Shop,alcohol,28.6861176,77.2919969,delhi,452.98,KENDRIYA VIDYALAYA SHAHDARA,81.67,Panchal Shiv Hanuman Mandir,temple,True,Near Temple,Medium,1,High Risk Zone
+Unknown,alcohol,28.6011318,77.226349,delhi,790.92,Unknown,65.17,Unknown,temple,True,Near Temple,Medium,1,High Risk Zone
+Government Wine and Beer Shop,alcohol,28.6781559,77.3087402,delhi,72.32,East Delhi M.C Primary School,516.98,Lakshmi Narayan Mandir,school,True,Near School,Medium,1,High Risk Zone
+Government Wine And Beer Shop,alcohol,28.6335356,77.2065442,delhi,633.43,M B Boys School,55.15,Shri Hanuman Mandir,temple,True,Near Temple,Medium,1,High Risk Zone
+Liquor Vend,alcohol,28.619491,77.2858801,delhi,638.2,Unknown,28.59,Unknown,temple,True,Near Temple,High,1,High Risk Zone
+Beer and Wine,alcohol,28.6010447,77.3166546,delhi,65.58,Mamta Public School,183.39,Unknown,school,True,Near School,Medium,1,High Risk Zone
+Vikas Wines,alcohol,19.1251922,72.8223929,mumbai,295.0,Unknown,52.27,Masjid Talimul Quran,temple,True,Near Temple,Medium,2,Low Risk Zone
+Irish Wines,alcohol,19.1323668,72.8123939,mumbai,197.12,Holy Cross Convent,89.29,Aram Nagar Amba Mata Mandir,temple,True,Near Temple,Medium,2,Low Risk Zone
+Unknown,alcohol,19.1031699,72.8908693,mumbai,572.97,THERESA HIGH SCHOOL,70.76,Sai Baba temple,temple,True,Near Temple,Medium,2,Low Risk Zone
+The Liquor Store,alcohol,28.5301564,77.2194297,noida,164.34,s6 BHIM Singh ni was,52.46,Prachin Shiv Shakti Durga Mandir,temple,True,Near Temple,Medium,1,High Risk Zone
+Happy,alcohol,28.6411257,77.2125615,noida,1378.34,M B Boys School,91.17,Unknown,temple,True,Near Temple,Medium,1,High Risk Zone
+Government Wine and Beer Shop,alcohol,28.6861176,77.2919969,noida,452.98,KENDRIYA VIDYALAYA SHAHDARA,81.67,Panchal Shiv Hanuman Mandir,temple,True,Near Temple,Medium,1,High Risk Zone
+Unknown,alcohol,28.6011318,77.226349,noida,790.92,Unknown,65.17,Unknown,temple,True,Near Temple,Medium,1,High Risk Zone
+Government Wine and Beer Shop,alcohol,28.6781559,77.3087402,noida,72.32,East Delhi M.C Primary School,516.98,Lakshmi Narayan Mandir,school,True,Near School,Medium,1,High Risk Zone
+Government Wine And Beer Shop,alcohol,28.6335356,77.2065442,noida,633.43,M B Boys School,55.15,Shri Hanuman Mandir,temple,True,Near Temple,Medium,1,High Risk Zone
+Liquor Vend,alcohol,28.619491,77.2858801,noida,638.2,Unknown,28.59,Unknown,temple,True,Near Temple,High,1,High Risk Zone
+Beer and Wine,alcohol,28.6010447,77.3166546,noida,65.58,Mamta Public School,183.39,Unknown,school,True,Near School,Medium,1,High Risk Zone
